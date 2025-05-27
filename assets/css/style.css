@@ -41,7 +41,7 @@
   --bs-orange: #fd7e14;
   --bs-purple: #6f42c1;
   --bs-blue: #1d3b53;
-  --bs-primary-rgb: 6, 106, 201;
+  --bs-primary-rgb: 10, 106, 9;
   --bs-white-rgb: 255, 255, 255;
   --bs-secondary-rgb: 154, 158, 164;
   --bs-success-rgb: 12, 188, 135;
@@ -17259,7 +17259,7 @@ textarea.form-control-lg {
   color: #fff;
   -webkit-box-shadow: 0 0 0 8px rgba(6, 106, 201, 0.4);
           box-shadow: 0 0 0 8px rgba(6, 106, 201, 0.4);
-  background-color: #066ac9;
+  background-color: #0A6A09;
 }
 .btn-primary-shadow:hover {
   color: #fff;
